@@ -1,6 +1,6 @@
 module github.com/gogolok/korifi-go-app
 
-go 1.22.2
+go 1.22.4
 
 require (
 	github.com/gorilla/handlers v1.5.2
